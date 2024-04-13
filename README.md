@@ -19,6 +19,6 @@ DISADVANTAGES OF HEAPS
 APPLICATIONS OF BINARY TREES
 1. Used to implement file systems.
 2. They are used in sorting algorithms.
-3. Used in a database systems to store data.
+3. Used in database systems to store data.
 4. Used in binary search algorithms to search for specific elements.
 
