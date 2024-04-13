@@ -8,11 +8,12 @@ print(data)
 
 
 print(heapq.heappop(data))
-
 print(data)
 
-print(heapq.heappush(data, 6))
+heapq.heappush(data, 9)
+heapq.heappush(data,0)
 print(data)
+
 
 
 
