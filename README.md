@@ -2,7 +2,9 @@
 HEAPS
 Heaps are binary tree structures that follow a specific rule. There are two types of heaps:
 One is a min-heap where the parent node is less than or equal to the value of its children.
-The second is the max-heap where the parent node is greater than or equal to the value of its children.
+
+The second is the max-heap where the parent node is greater than or equal to the value of its children
+
 
 ADVANTAGES OF HEAPS
 1. Easy to use
@@ -21,3 +23,4 @@ APPLICATIONS OF BINARY TREES
 2. They are used in sorting algorithms.
 3. Used in database systems to store data.
 4. Used in binary search algorithms to search for specific elements.
+
